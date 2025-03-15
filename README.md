@@ -34,4 +34,8 @@ Este proyecto está compuesto por los siguientes archivos:
 
 3. Puedes agregar amigos a la lista escribiendo su nombre y presionando "Enter" o haciendo clic en el botón para agregarlo.
 
+<<<<<<< HEAD
 4. Una vez que tengas amigos en la lista, haz clic en el botón para realizar el sorteo de amigo secreto.
+=======
+4. Una vez que tengas amigos en la lista, haz clic en el botón para realizar el sorteo de amigo secreto.
+>>>>>>> ae5e027b2f5284eb7d7ed7a3e9aa24029499e080
